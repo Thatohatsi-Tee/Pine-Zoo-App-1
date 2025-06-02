@@ -46,6 +46,10 @@ body{
     padding-top: 12px;
 }
 
+#tabs-top a:hover{
+    color: blanchedalmond;
+}
+
 /*=============== MAIN-HOME ===============*/
 #main-home{
     margin-top: 120px;
@@ -72,6 +76,10 @@ body{
     text-align: center;
     text-decoration: none;
     padding-top: 12px;
+}
+
+#tabs-bottom a:hover{
+    color:blanchedalmond;
 }
 
 /*=============== MAIN ===============*/
@@ -192,6 +200,7 @@ textarea{
     padding: 8px 0;
 }
 
-.button a:hover{
-    color: black;
+a.button:hover{
+    color:#131313; 
 }
+   
