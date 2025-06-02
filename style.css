@@ -191,3 +191,7 @@ textarea{
     margin: 12px 0;
     padding: 8px 0;
 }
+
+.button a:hover{
+    color: black;
+}
